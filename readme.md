@@ -1,3 +1,3 @@
-# suh dudes
+![bg][banner]
 
-![bg][banner.png]
+[banner]: banner.png
