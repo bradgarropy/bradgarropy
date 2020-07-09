@@ -1,3 +1,3 @@
 ![bg][banner]
 
-[banner]: banner.png
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
