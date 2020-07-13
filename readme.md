@@ -1,8 +1,4 @@
-<a href="https://bradgarropy.com">
-    <img src="https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png"/>
-</a>
-
-<br>
+[![bg][banner]][website]
 
 **_lead frontend developer_ at [adobe][adobe] who likes emojis and typing in lowercase**
 
@@ -19,6 +15,7 @@
 📷 [instagram][instagram]
 👔 [linkedin][linkedin]
 
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
