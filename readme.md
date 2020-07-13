@@ -2,6 +2,8 @@
     <img src="https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png"/>
 </a>
 
+<p style="color: red">TESTING</p>
+
 🏡 [website][website]
 🐦 [twitter][twitter]
 📺 [youtube][youtube]
