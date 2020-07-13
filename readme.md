@@ -2,6 +2,8 @@
     <img src="https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png"/>
 </a>
 
+**Lead Frontend Developer @adobe who likes emojis and typing in lowercase.**
+
 🏡 [website][website]
 🐦 [twitter][twitter]
 📺 [youtube][youtube]
