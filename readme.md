@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### lead frontend developer at [adobe][adobe] who likes emojis and typing in lowercase
+### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
 
 👨🏼‍💻 building a [murph timer][murph]  
 🧠 learning [svelte][svelte] and [tailwind][tailwind]  
