@@ -1,12 +1,11 @@
 [![bg][banner]][website]
 
-**_lead frontend developer_ at [adobe][adobe] who likes emojis and typing in lowercase**
+### lead frontend developer at [adobe][adobe] who likes emojis and typing in lowercase
 
 👨🏼‍💻 building a [murph timer][murph]  
 🧠 learning [svelte][svelte] and [tailwind][tailwind]  
 💜 love [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
 
-**links** | 
 🏡 [website][website]
 🐦 [twitter][twitter]
 📺 [youtube][youtube]
