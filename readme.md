@@ -1,5 +1,5 @@
-<!-- [![bg][banner]][website] -->
-![top](https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/top.png)
+[![bg][banner]][website]
+<!-- ![top](https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/top.png) -->
 
 ### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
 
@@ -15,9 +15,9 @@
 📷 [instagram][instagram]
 👔 [linkedin][linkedin]
 
-<br>
+<!-- <br>
 
-![bottom](https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/bottom.png)
+![bottom](https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/bottom.png) -->
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [adobe]: https://adobe.com
