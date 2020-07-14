@@ -1,4 +1,5 @@
-[![bg][banner]][website]
+<!-- [![bg][banner]][website] -->
+[![top](top.png)][website]
 
 ### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
 
@@ -13,6 +14,11 @@
 📦 [npm][npm]
 📷 [instagram][instagram]
 👔 [linkedin][linkedin]
+
+<br>
+<br>
+
+[![bottom](bottom-mirror.png)][website]
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [adobe]: https://adobe.com
