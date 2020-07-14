@@ -18,7 +18,7 @@
 <br>
 <br>
 
-[![bottom](bottom-mirror.png)][website]
+[![bottom](bottom.png)][website]
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [adobe]: https://adobe.com
