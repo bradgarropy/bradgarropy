@@ -4,7 +4,7 @@
 
 👨🏼‍💻 building a [murph timer][murph]  
 🧠 learning [svelte][svelte] and [tailwind][tailwind]  
-💜 love [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
 
 🏡 [website][website]
 🐦 [twitter][twitter]
