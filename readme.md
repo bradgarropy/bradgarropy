@@ -6,14 +6,13 @@
 🧠 learning [svelte][svelte] and [tailwind][tailwind]  
 💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
 
-**|** 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
 📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] **|**
+👔 [linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [adobe]: https://adobe.com
