@@ -15,6 +15,8 @@
 📷 [instagram][instagram]
 👔 [linkedin][linkedin]
 
+<br>
+
 ![bottom](https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/bottom.png)
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
