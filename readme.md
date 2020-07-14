@@ -2,7 +2,7 @@
 
 ### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
 
-👨🏼‍💻 building a [murph timer][murph]  
+👨🏼‍💻 building [murphee][murphee]  
 🧠 learning [svelte][svelte] and [tailwind][tailwind]  
 💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
 
@@ -20,7 +20,7 @@
 [gatsby]: https://gatsbyjs.org
 [styled]: https://styled-components.com
 [jamstack]: https://jamstack.org
-[murph]: https://murphee.netlify.app
+[murphee]: https://murphee.netlify.app
 [svelte]: https://svelte.dev
 [tailwind]: https://tailwindcss.com
 [website]: https://bradgarropy.com
