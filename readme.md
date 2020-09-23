@@ -3,7 +3,7 @@
 ### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
 
 👨🏼‍💻 building [murphee][murphee]  
-🧠 learning [svelte][svelte], [tailwind][tailwind], and [fauna][fauna]  
+🧠 learning [svelte][svelte], [tailwind][tailwind], [fauna][fauna]  
 💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
 
 🏡 [website][website] **|** 
