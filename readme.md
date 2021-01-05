@@ -2,9 +2,9 @@
 
 ### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
 
-👨🏼‍💻 building [murphee][murphee]  
-🧠 learning [svelte][svelte], [tailwind][tailwind], [fauna][fauna]  
-💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+👨🏼‍💻 building [bradgarropy.com][website]  
+🧠 learning [nextjs][next], [typescript][typescript]  
+💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -17,13 +17,11 @@
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
-[gatsby]: https://gatsbyjs.org
+[firebase]: https://firebase.google.com
 [styled]: https://styled-components.com
 [jamstack]: https://jamstack.org
-[murphee]: https://murphee.netlify.app
-[svelte]: https://svelte.dev
-[tailwind]: https://tailwindcss.com
-[fauna]: https://fauna.com
+[next]: https://nextjs.org
+[typescript]: https://www.typescriptlang.org
 [website]: https://bradgarropy.com
 [twitter]: https://twitter.com/bradgarropy
 [youtube]: https://youtube.com/bradgarropy
