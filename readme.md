@@ -10,6 +10,7 @@
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
+📰 [newsletter][newsletter] **|** 
 📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
@@ -26,6 +27,7 @@
 [twitter]: https://twitter.com/bradgarropy
 [youtube]: https://youtube.com/bradgarropy
 [twitch]: https://twitch.tv/bradgarropy
+[newsletter]: https://bradgarropy.com/newsletter
 [instagram]: https://instagram.com/bradgarropy
 [linkedin]: https://linkedin.com/in/bradgarropy
 [npm]: https://npmjs.com/~bradgarropy
