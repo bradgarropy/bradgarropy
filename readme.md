@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### web platform engineer at [atlassian][atlassian] who likes emoji and typing in lowercase
+### developer experience engineer at [atlassian][atlassian] who likes emoji and typing in lowercase
 
 👨🏼‍💻 building [bradgarropy.com][website]  
 🧠 learning [nextjs][next], [typescript][typescript]  
