@@ -3,8 +3,8 @@
 ### developer experience engineer at [atlassian][atlassian] who likes emoji and typing in lowercase
 
 👨🏼‍💻 building [bradgarropy.com][website]  
-🧠 learning [nextjs][next], [typescript][typescript]  
-💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
+🧠 learning [xata][xata]  
+💜 loving [typescript][typescript], [react][react], [remix][remix], and [tailwind][tailwind]  
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -17,12 +17,11 @@
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [atlassian]: https://atlassian.com
-[react]: http://reactjs.org
-[firebase]: https://firebase.google.com
-[styled]: https://styled-components.com
-[jamstack]: https://jamstack.org
-[next]: https://nextjs.org
+[xata]: https://xata.io
 [typescript]: https://www.typescriptlang.org
+[react]: http://reactjs.org
+[remix]: https://remix.run
+[tailwind]: https://tailwindcss.com
 [website]: https://bradgarropy.com
 [twitter]: https://twitter.com/bradgarropy
 [youtube]: https://youtube.com/bradgarropy
