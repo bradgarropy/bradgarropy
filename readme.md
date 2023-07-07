@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### developer experience engineer at [atlassian][atlassian] who likes emoji and typing in lowercase
+### frontend developer at [atlassian][atlassian] who likes emoji and typing in lowercase
 
 👨🏼‍💻 building [bradgarropy.com][website]  
 🧠 learning [xata][xata]  
