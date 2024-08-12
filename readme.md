@@ -1,10 +1,10 @@
 [![bg][banner]][website]
 
-### frontend developer at [atlassian][atlassian] who likes emoji and typing in lowercase
+### senior frontend developer at [stripe][stripe] who likes emoji and typing in lowercase
 
 👨🏼‍💻 building [bradgarropy.com][website]  
-🧠 learning [xata][xata]  
-💜 loving [typescript][typescript], [react][react], [remix][remix], and [tailwind][tailwind]  
+🧠 learning how to build SaaS products  
+💜 loving [typescript][typescript], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -16,12 +16,12 @@
 👔 [linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
-[atlassian]: https://atlassian.com
-[xata]: https://xata.io
+[stripe]: https://stripe.com
 [typescript]: https://www.typescriptlang.org
 [react]: http://reactjs.org
 [remix]: https://remix.run
 [tailwind]: https://tailwindcss.com
+[prisma]: https://www.prisma.io
 [website]: https://bradgarropy.com
 [twitter]: https://twitter.com/bradgarropy
 [youtube]: https://youtube.com/bradgarropy
