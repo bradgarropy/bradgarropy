@@ -7,6 +7,7 @@
 💜 loving [typescript][typescript], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
 
 🏡 [website][website] **|** 
+🦋 [bluesky][bluesky] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
@@ -23,6 +24,7 @@
 [tailwind]: https://tailwindcss.com
 [prisma]: https://www.prisma.io
 [website]: https://bradgarropy.com
+[bluesky]: https://bsky.app/profile/bradgarropy.com
 [twitter]: https://twitter.com/bradgarropy
 [youtube]: https://youtube.com/bradgarropy
 [twitch]: https://twitch.tv/bradgarropy
