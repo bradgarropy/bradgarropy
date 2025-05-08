@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### senior frontend developer at [stripe][stripe] who likes emoji and typing in lowercase
+### senior frontend developer at [cloudflare][cloudflare] who likes emoji and typing in lowercase
 
 👨🏼‍💻 building [bradgarropy.com][website]  
 🧠 learning how to build SaaS products  
@@ -17,7 +17,7 @@
 👔 [linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
-[stripe]: https://stripe.com
+[cloudflare]: https://cloudflare.com
 [typescript]: https://www.typescriptlang.org
 [react]: http://reactjs.org
 [remix]: https://remix.run
